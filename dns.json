@@ -4,12 +4,12 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "stageapp.mohantest123.tk",
+        "Name": "stageapp.ashokramreddysyn.tk",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
           {
-            "Value": "FELBNAME"
+            "Value": "sc-weblayer-lb"
           }
         ]
       }
